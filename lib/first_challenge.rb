@@ -25,7 +25,10 @@ contacts.each do |person, data|
    value.delete_if do |flavour|
      
      flavour = "strawberry"
-     
+   end
+ end
+ end
+ end
   contacts
 end
 
