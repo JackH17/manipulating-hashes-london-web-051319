@@ -15,7 +15,6 @@ def first_challenge
 
   #your code here
   
- def remove_strawberry(contacts)
    
   contacts.each do |person, contact_details_hash|
     
@@ -27,7 +26,6 @@ def first_challenge
       end
     end
   end
-end
 
   contacts
 end
