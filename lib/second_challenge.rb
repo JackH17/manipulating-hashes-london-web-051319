@@ -7,8 +7,11 @@ def second_challenge
   }
 
   #code your solution here!
+array_new = []
 
-  groceries.values 
+  array_new << groceries.values 
+  
+  array_new.join 
   
   
 
